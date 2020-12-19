@@ -1,2 +1,2 @@
-# App_-nventor_mobil_sirket_tan-t-m_uygulamas-
+# App_ınventor_mobil_sirket_tanıtım_uygulaması
 App ınventor ile mobil şirket tanıtım uygulaması
